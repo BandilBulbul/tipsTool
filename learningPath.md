@@ -17,16 +17,8 @@
 | 18.10.21      | Building Go Executables for Multiple Platforms           |               |        |              |            |         |
 | 19.10.21      | Basic CI/CD pipeline for Go Application ~ GitHub Actions |               |        |              |            |         |
 | 20.10.21      | Research and Documentation on Tips CLI tool              |               |        |              |            |         | 
+| 21.10.21      | Capacity Planning and Milestone                          |               |        |              |            |         | 
+
 
 
 #### **Note:** The above table will be updated on daily basis, based on completion of topics or if any help is needed.
-
----
-
-## Capacity Planning
-
----
-
-## Milestone
-
----
