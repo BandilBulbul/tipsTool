@@ -4,8 +4,8 @@
 
 |  Planned Date | Topics to be covered                                     | Assigned Time | Status | Completed On | Time Taken | Remarks |
 |---------------|----------------------------------------------------------|---------------|--------|--------------|------------|---------|
-| 08.10.21      | Dependency Injection in Go                               | 4 hours       |        |              |            |         |
-| 08.10.21      | Mocking in Go                                            | 4 hours       |        |              |            |         |
+| 08.10.21      | Dependency Injection in Go                               | 4 hours       |Completed      | 08.10.21 |4 hours            | More examples with Tdd        |
+| 08.10.21      | Mocking in Go                                            | 4 hours       | Completed       |   08.10.21           |  4 hours          |    Mocking Techniques with one example each.  |
 | 11.10.21      | Concurrency and channels                                 | 4 hours       |        |              |            |         |
 | 11.10.21      | Select                                                   | 4 hours       |        |              |            |         |
 | 12.10.21      | Sync Package                                             | 4 hours       |        |              |            |         |

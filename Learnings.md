@@ -73,3 +73,13 @@
     1. Introduction to Kanban board
     2. How to create cards, convert into issues
     3. Creating Sprint Plan (2 Weeks)
+	
+#### 08 October 2021
+	1. Dependecy Injection
+		- More Examples
+		- Tdd
+	2. Mocking Techniques in Go
+		- Higher Order Functions [Wrapping the third party function into our function]
+		- Interface Implementation [Using Interfaces]
+		- Monkey Patching [Creating function type variable and implementing in Tests]
+		- Examples
