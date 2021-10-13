@@ -8,7 +8,7 @@
 | 08.10.21      | Mocking in Go                                            | 4 hours       | Completed       |   08.10.21           |  4 hours          |    Mocking Techniques with examples.  |
 | 12.10.21      | Context Package                                          | 4 hours       |  Completed      | 12.10.21             | 4 hours           |   Background, WithCancel, WithTimeout and examples.      |
 | 13.10.21      | Math Package                                             | 4 hours       |   Completed   | 13.10.21              | 4 hours            |     Functions, examples, tdd    |
-| 13.10.21      | Reading Files in Go                                      | 4 hours       |        |              |            |         |
+| 14.10.21      | Reading Files in Go                                      | 4 hours       |        |              |            |         |
 | 14.10.21      | Intro to property based tests                            |               |        |              |            |         |
 | 15.10.21      | Structuring Go Project                                   |               |        |              |            |         |
 | 18.10.21      | Building Go Executables for Multiple Platforms           |               |        |              |            |         |
