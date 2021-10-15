@@ -99,3 +99,8 @@
 		- Examples
 		- Tdd
 		
+#### 14 October 2021
+	1. Reading Files in Go
+		- Tdd
+	2. Assignment
+		
