@@ -110,3 +110,13 @@
 		- Created workflows for lint, test, build
 		- Created workflow for release when tag is pushed
 		- Working on workflow - when tag is pushed, release then build binaries for multiple platforms and add them to current release (in sequence).
+		
+#### 19 October 2021
+	1. Basic CI/CD pipeline - Github Actions
+		- Automate building binaries for various platforms through workflow.
+		- some experiments 
+	2. Building go executables 
+		- Understood what happens when we do Go get 
+		- Bash Script to set goarch and goos as command args to get correct executables
+		- learning shell script (basic level), ran into error. (runs in bash correctly but gave error in ubuntu)
+		- will work on the above tomorrow.
