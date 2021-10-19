@@ -104,3 +104,9 @@
 		- Tdd
 	2. Assignment
 		
+#### 18 October 2021
+	1. Structuring Go Project
+	2. Basic CI/CD pipeline - Github Actions
+		- Created workflows for lint, test, build
+		- Created workflow for release when tag is pushed
+		- Working on workflow - when tag is pushed, release then build binaries for multiple platforms and add them to current release (in sequence).
